@@ -1,3 +1,4 @@
 # thswogh의 미니 홈페이지
 
-깃허브 사용법 with sourcetree
+## 내비게이션
+- 네비게이션 추가
